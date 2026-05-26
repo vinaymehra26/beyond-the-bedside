@@ -1,0 +1,25 @@
+baseURL = "https://vinaymehra26.github.io/beyond-the-bedside/"
+languageCode = "en-us"
+title = "Beyond The Bedside"
+theme = "PaperMod"
+
+[params]
+  description = "Nursing, healthcare, and everything beyond the bedside."
+  author = "Vinay Mehra"
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
