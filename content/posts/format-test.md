@@ -1,8 +1,9 @@
 ---
-title: "Format Test"
+title: Format Test
 date: 2026-05-28
-tags: [test]
-draft: false
+tags:
+  - test
+draft: true
 ---
 
 This is a normal paragraph. It has multiple sentences. This is how your body text looks on the site.
