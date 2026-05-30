@@ -1,5 +1,5 @@
 ---
-title: Getting Started With NORCET 12
+title: What is NORCET ?
 date: 2026-05-27
 tags:
   - NORCET
