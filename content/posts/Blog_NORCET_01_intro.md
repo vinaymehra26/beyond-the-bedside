@@ -10,7 +10,7 @@ tags:
   - AIIMS
   - Staff-Nurse
 category: Nursing
-Cover:
+cover:
     Image: "/images/covers/Blog_NORCET_Cover 1. Jpg"
     Alt: "Cover image for Blog 1"
     Caption: ""
