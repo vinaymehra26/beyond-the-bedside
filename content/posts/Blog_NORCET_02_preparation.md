@@ -3,7 +3,7 @@ title: How To Get Prepared For NORCET
 slug: how-to-prepare-for-norcet
 date: 2026-05-31
 draft: false
-description: A complete guide to NORCET preparation — syllabus breakdown, exam pattern, online courses, and a practical study plan for nursing students
+description: A complete guide to NORCET preparation — syllabus breakdown, exam pattern, and online courses.
 tags:
   - NORCET
   - Exams
@@ -18,7 +18,7 @@ author: Vinay Mehra
 ---
 ## Understanding The Exam First
 
-NORCET is conducted by AIIMS New Delhi in a center-based online CBT format. It happens in two stages.
+[NORCET](https://vinaymehra26.github.io/beyond-the-bedside/posts/what-is-norcet/) is conducted by AIIMS New Delhi in a center-based online CBT format. It happens in two stages.
 
 **Stage I (Prelims)** is the qualifying exam. Candidates who qualified this are later shortlisted for the stage II exam.
 
@@ -43,7 +43,7 @@ NORCET is conducted by AIIMS New Delhi in a center-based online CBT format. It h
 ---
 ## What Comes in the Exam?
 
-The exam syllabus mainly include all the nursing subjects that are taught in the undergraduate academic courses. Here is the all exam portion.
+The exam syllabus mainly include all the nursing subjects that are taught in the Nursing undergraduate academic courses. Here is the all exam portion.
 
 **Core Nursing Subjects:**
 1. Anatomy & Physiology
