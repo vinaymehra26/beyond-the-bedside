@@ -11,9 +11,9 @@ tags:
   - Staff-Nurse
 category: Nursing
 cover:
-    Image: "/images/covers/Blog_NORCET_Cover 1. Jpg"
-    Alt: "Cover image for Blog 1"
-    Caption: ""
+    image: "/images/covers/Blog_NORCET_Cover1.jpg"
+    alt: "Cover image for Blog 1"
+    caption: ""
 author: Vinay Mehra
 ---
 ## What is NORCET?
