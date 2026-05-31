@@ -11,7 +11,7 @@ tags:
   - Staff-Nurse
 category: Nursing
 cover:
-  image: "/images/covers/Blog_NORCET_Cover1.jpg"
+  image: "/static/images/covers/Blog_NORCET_Cover1.jpg"
   alt: "Cover image for Blog 1"
   caption: ""
 author: Vinay Mehra
