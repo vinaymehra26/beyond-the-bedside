@@ -2,6 +2,7 @@ baseURL = "https://vinaymehra26.github.io/beyond-the-bedside/"
 languageCode = "en-us"
 title = "Beyond The Bedside"
 theme = "PaperMod"
+timeZone = "Asia/Kolkata"
 
 [params]
   description = "Nursing, healthcare, and everything beyond the bedside."
@@ -9,6 +10,9 @@ theme = "PaperMod"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
+  
+[params.assets]
+  css = ["css/custom.css"]
 
 [menu]
   [[menu.main]]

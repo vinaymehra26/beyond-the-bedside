@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+/* Subtle pink background */
+:root {
+    --theme: #fff5f7;
+    --entry: #fff0f3;
+    --header-height: auto;
+}
+
+body {
+    background-color: #fff5f7 !important;
+}
+
+.header, .footer, .nav {
+    background-color: #fff5f7 !important;
+}
+
+/* Title font */
+.logo a {
+    font-family: 'Parisienne', cursive;
+}
+
+/* Fix H2 size on mobile */
+@media (max-width: 768px) {
+    .post-content h2 {
+        font-size: 1.4rem;
+    }
+}
