@@ -33,13 +33,7 @@ body {
 /* Site title font only */
 .logo a {
     font-family: 'Parisienne', cursive;
-}
-
-/* Fix H2 size on mobile */
-@media (max-width: 768px) {
-    .post-content h2 {
-        font-size: 1.4rem;
-    }
+    color: #d171af;
 }
 
 /* Example — tags */
@@ -75,4 +69,73 @@ body {
 [data-theme="dark"] .paginav a:hover {
     background-color: #3a2e30;
     color: #f0c0c8;
+}
+
+/* Fix H2 size on mobile */
+@media (max-width: 768px) {
+    .post-content h2 {
+        font-size: 1.5rem;
+    }
+    .post-content h3 {
+        font-size: 1.25rem;
+    }
+    .post-title {
+        font-size: 2rem;
+    }
+    .first-entry .entry-header h2 {
+        font-size: 2.3rem;
+    }
+}
+
+.post-content {
+    font-size: 1.1rem;
+}
+
+.post-content strong {
+    color: #8b4a52;
+}
+
+[data-theme="dark"] .post-content strong {
+    color: #e8b4bc;
+}
+
+/* Fix nav layout on mobile */
+.header-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+.logo {
+    flex-shrink: 0;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media (max-width: 768px) {
+    .menu a {
+        font-size: 0.83rem;
+    }
+}
+
+/* Make tables horizontally scrollable on mobile */
+.post-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.post-content th,
+.post-content td {
+    min-width: 120px;
 }
