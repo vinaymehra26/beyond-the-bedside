@@ -14,6 +14,7 @@ cover:
     image: "/images/covers/Blog_NORCET_Cover1.jpg"
     alt: "Cover image for Blog 1"
     caption: ""
+    relative: false
 author: Vinay Mehra
 ---
 ## What is NORCET?
