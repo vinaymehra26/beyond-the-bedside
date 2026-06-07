@@ -35,6 +35,15 @@ This word is **bold**. This word is *italic*. This is ***bold and italic*** toge
 2. Second step
 3. Third step
 
+## Toggle / Callout
+
+<details>
+<summary>Click to reveal: What happens if you miss the NORCET window?</summary>
+
+You'll have to wait for the next cycle. AIIMS typically releases dates 2–3 months before the exam, so keep checking the official notice board.
+
+</details>
+
 ## Blockquote
 
 > This is a blockquote. Use it for callouts, important notes, or emphasis on a line.
