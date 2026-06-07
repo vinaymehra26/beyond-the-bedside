@@ -27,3 +27,6 @@ timeZone = "Asia/Kolkata"
     name = "About"
     url = "/about/"
     weight = 3
+
+[markup.goldmark.renderer]
+  unsafe = true
