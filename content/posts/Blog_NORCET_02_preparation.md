@@ -128,3 +128,10 @@ More books does not mean better preparation. It usually means scattered, incompl
 
 ---
 NORCET preparation is not complicated — it just needs to start in the right direction. Know the exam, know the syllabus, pick your resources, and begin. The rest figures itself out as you go.
+
+<details>
+<summary>Click to reveal: What happens if you miss the NORCET window?</summary>
+
+You'll have to wait for the next cycle. AIIMS typically releases dates 2–3 months before the exam, so keep checking the official notice board.
+
+</details>
