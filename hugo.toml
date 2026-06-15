@@ -10,7 +10,8 @@ timeZone = "Asia/Kolkata"
   ShowReadingTime = true
   ShowPostNavLinks = true
   ShowBreadCrumbs = true
-  
+  homeInfoParams = false
+
 [params.assets]
   css = ["css/custom.css"]
 
@@ -30,3 +31,20 @@ timeZone = "Asia/Kolkata"
 
 [markup.goldmark.renderer]
   unsafe = true
+  
+[params.profileMode]
+  enabled = true
+  title = "Vinay Mehra"
+  subtitle = "Final-year BSc Nursing student. Gaining clarity in my profession, exploring digital tools, and writing about all of it as clearly as I can."
+  imageUrl = "images/profile.jpg"
+  imageWidth = 120
+  imageHeight = 120
+  imageTitle = "Vinay Mehra"
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/vinaymehra26"
+
+[[params.socialIcons]]
+  name = "email"
+  url = "mailto:vm612716@gmail.com"
