@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
@@ -34,6 +35,8 @@
   </url><url>
     <loc>http://localhost:1313/beyond-the-bedside/posts/what-is-norcet/</loc>
     <lastmod>2026-05-27T00:00:00+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/beyond-the-bedside/archives/</loc>
   </url><url>
     <loc>http://localhost:1313/beyond-the-bedside/categories/</loc>
   </url>

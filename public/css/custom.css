@@ -1,28 +1,157 @@
 @import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
 
-/* Subtle pink background */
+/* Light mode pink theme */
 :root {
     --theme: #fff5f7;
-    --entry: #fff0f3;
-    --header-height: auto;
+    --entry: #f2dadf;
+}
+
+/* Dark mode pink theme */
+[data-theme="dark"] {
+    --theme: #1a1618 !important;
+    --entry: #271e23 !important;
+    --primary: #e8d0d4 !important;
+    --secondary: #a6868f !important;
+    --border: #3a2e30 !important;
+}
+
+[data-theme="dark"] body,
+[data-theme="dark"] .header,
+[data-theme="dark"] .footer,
+[data-theme="dark"] .nav {
+    background-color: #1a1618 !important;
 }
 
 body {
-    background-color: #fff5f7 !important;
+    background-color: var(--theme) !important;
 }
 
 .header, .footer, .nav {
-    background-color: #fff5f7 !important;
+    background-color: var(--theme) !important;
 }
 
-/* Title font */
+/* Site title font only */
 .logo a {
     font-family: 'Parisienne', cursive;
+    color: #d171af;
+}
+
+/* Example — tags */
+.post-tags a {
+    background-color: #ffe0e6;
+    color: #8b4a52;
+    border: 1px solid #f0b0ba;
+}
+
+.post-tags a:hover {
+    background-color: #f0b0ba;
+}
+
+/* Navigation buttons */
+.paginav a {
+    background-color: #fff0f3;
+    color: #8b4a52;
+    border: 1px solid #f0b0ba;
+}
+
+.paginav a:hover {
+    background-color: #f0b0ba;
+    color: #5a2a30;
+}
+
+/* Dark mode */
+[data-theme="dark"] .paginav a {
+    background-color: #221e20;
+    color: #e8d0d4;
+    border: 1px solid #3a2e30;
+}
+
+[data-theme="dark"] .paginav a:hover {
+    background-color: #3a2e30;
+    color: #f0c0c8;
 }
 
 /* Fix H2 size on mobile */
 @media (max-width: 768px) {
     .post-content h2 {
-        font-size: 1.4rem;
+        font-size: 1.5rem;
     }
+    .post-content h3 {
+        font-size: 1.25rem;
+    }
+    .post-title {
+        font-size: 2rem;
+    }
+    .first-entry .entry-header h2 {
+        font-size: 2.3rem;
+    }
+}
+
+.post-content {
+    font-size: 1.0rem;
+}
+
+.post-content strong {
+    color: #8b4a52;
+}
+
+[data-theme="dark"] .post-content strong {
+    color: #e8b4bc;
+}
+
+.post-description {
+    font-size: 0.95rem;
+    font-style: italic;
+    color: #8b4a52;
+}
+
+/* Fix nav layout on mobile */
+.header-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: left;
+    justify-content: space-between;
+    width: 100%;
+    flex-wrap: nowrap;
+}
+
+.logo {
+    flex-shrink: 0;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    gap: 0.5rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+@media (max-width: 768px) {
+    .menu a {
+        font-size: 0.83rem;
+    }
+}
+
+/* Make tables horizontally scrollable on mobile */
+.post-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+.post-content th,
+.post-content td {
+    min-width: 120px;
+}
+
+/* Reduce space below header */
+.header {
+    padding-bottom: 0;
+}
+
+/* Reduce space above post content */
+.post-header {
+    margin-top: 5px;
 }

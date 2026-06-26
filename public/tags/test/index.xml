@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Test on Beyond The Bedside</title>
+    <link>http://localhost:1313/beyond-the-bedside/tags/test/</link>
+    <description>Recent content in Test on Beyond The Bedside</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 May 2026 00:00:00 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/beyond-the-bedside/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Format Test</title>
+      <link>http://localhost:1313/beyond-the-bedside/posts/format-test/</link>
+      <pubDate>Thu, 28 May 2026 00:00:00 +0530</pubDate>
+      <guid>http://localhost:1313/beyond-the-bedside/posts/format-test/</guid>
+      <description>&lt;p&gt;This is a normal paragraph. It has multiple sentences. This is how your body text looks on the site.&lt;/p&gt;
+&lt;p&gt;This is a second paragraph. Notice there is a blank line above — that is what creates a new paragraph in Hugo. A single Enter in Obsidian does not create a new paragraph here.&lt;/p&gt;
+&lt;h2 id=&#34;this-is-a-heading-2&#34;&gt;This is a Heading 2&lt;/h2&gt;
+&lt;p&gt;Use H2 for main sections inside your post. Your post title is already H1 so never use H1 inside the body.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
