@@ -158,3 +158,38 @@ body {
 .post-header {
     margin-top: 5px;
 }
+
+/* TOC box */
+details.toc {
+    background-color: #fff0f3 !important;
+    border: 1px solid #f0b0ba !important;
+    border-radius: 6px;
+}
+
+/* TOC heading ("Table of Contents") */
+.toc details summary {
+    color: #8b4a52;
+}
+
+/* TOC links */
+.toc a {
+    color: #8b4a52;
+}
+
+.toc a:hover {
+    color: #5a2a30;
+}
+
+/* Dark mode */
+[data-theme="dark"] .toc {
+    background-color: #221e20;
+    border: 1px solid #3a2e30;
+}
+
+[data-theme="dark"] .toc a {
+    color: #e8d0d4;
+}
+
+[data-theme="dark"] .toc a:hover {
+    color: #f0c0c8;
+}
