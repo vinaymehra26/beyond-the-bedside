@@ -11,7 +11,7 @@ tags:
   - Syllabus
 category: Nursing
 cover:
-  image: ""
+  image: "images/covers/Blog_NORCET_Cover2.jpg"
   alt: ""
   caption: ""
 author: Vinay Mehra
