@@ -161,8 +161,8 @@ body {
 
 /* TOC box */
 details.toc {
-    background-color: #fff0f3 !important;
-    border: 1px solid #f0b0ba !important;
+    background-color: #fff0f3;
+    border: 1px solid #f0b0ba;
     border-radius: 6px;
 }
 
