@@ -88,7 +88,7 @@ body {
 }
 
 .post-content {
-    font-size: 1.1rem;
+    font-size: 1.0rem;
 }
 
 .post-content strong {
@@ -99,11 +99,17 @@ body {
     color: #e8b4bc;
 }
 
+.post-description {
+    font-size: 0.95rem;
+    font-style: italic;
+    color: #8b4a52;
+}
+
 /* Fix nav layout on mobile */
 .header-nav {
     display: flex;
     flex-direction: row;
-    align-items: center;
+    align-items: left;
     justify-content: space-between;
     width: 100%;
     flex-wrap: nowrap;
@@ -138,4 +144,14 @@ body {
 .post-content th,
 .post-content td {
     min-width: 120px;
+}
+
+/* Reduce space below header */
+.header {
+    padding-bottom: 0;
+}
+
+/* Reduce space above post content */
+.post-header {
+    margin-top: 5px;
 }
