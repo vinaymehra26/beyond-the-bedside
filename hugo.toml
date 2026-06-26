@@ -11,6 +11,8 @@ timeZone = "Asia/Kolkata"
   ShowPostNavLinks = true
   ShowBreadCrumbs = false
   homeInfoParams = false
+  ShowToC = true
+  TocOpen = false
 
 [params.assets]
   css = ["css/custom.css"]

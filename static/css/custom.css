@@ -79,6 +79,9 @@ body {
     .post-content h3 {
         font-size: 1.25rem;
     }
+    .post-content {
+        font-size: 1.0rem;
+    }
     .post-title {
         font-size: 2rem;
     }
@@ -88,7 +91,7 @@ body {
 }
 
 .post-content {
-    font-size: 1.0rem;
+    font-size: 1.1rem;
 }
 
 .post-content strong {
