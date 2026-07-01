@@ -9,7 +9,7 @@ tags:
   - Online-Courses
 category: Nursing
 cover:
-  image: "images/covers/Blog_NORCET_Cover 2. Jpg"
+  image: "images/covers/Blog_NORCET_Cover3.jpg"
   alt: ""
   caption: ""
 author: Vinay Mehra
@@ -20,7 +20,7 @@ I also did these too and got overwhelmed quickly after knowing there are so many
 
 This post will save you a lot of time and possibly your money by giving a framework helpful for choosing a suitable online course for yourself.
 
-## First! Know what You Need in the course
+## First! Know what You Need
 
 Before opening a single course page, it helps to be honest about your own situation, because it changes what "good" even means for you.
 
