@@ -44,7 +44,7 @@ Here is what is you mainly need to watch for while comparing course.
 ## Some popular platforms for NORCET
 
 - [Nursing Next Live (NNL ONE)](https://nnlone.com/)
-- [NPrep]([NPrep - Nursing Exam Preparation for NORCET, RRB, ESIC & All Govt Nursing Exams | NPrep](https://nprep.in/))
+- [NPrep](https://nprep.in/)
 - [Concept RNA](https://www.conceptrna.com)
 - [Adda 247](https://www.adda247.com/nursing-mahapack-exam-kit?examCategoryMappingId=NURSING)
 - [Physics Wallah](https://www.pw.live/nursing/batches)
