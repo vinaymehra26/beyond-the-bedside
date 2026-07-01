@@ -9,7 +9,7 @@ tags:
   - Online-Courses
 category: Nursing
 cover:
-  image: ""
+  image: "images/covers/Blog_NORCET_Cover 2. Jpg"
   alt: ""
   caption: ""
 author: Vinay Mehra
