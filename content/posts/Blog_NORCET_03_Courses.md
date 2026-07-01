@@ -1,5 +1,5 @@
 ---
-title: How to Choose a Online NORCET Course in 2026?
+title: How to Choose a NORCET Online Course in 2026?
 slug: How-to-choose-NORCET-course
 date: 2026-07-01
 draft: false
